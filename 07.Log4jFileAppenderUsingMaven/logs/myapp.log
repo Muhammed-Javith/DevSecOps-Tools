@@ -1,0 +1,5 @@
+2023-12-08 15:37:52 DEBUG com.app.mj.FileAppenderwithPattern:10 - Hello
+2023-12-08 15:37:52 INFO com.app.mj.FileAppenderwithPattern:12 - Hello
+2023-12-08 15:37:52 WARN com.app.mj.FileAppenderwithPattern:14 - Hello
+2023-12-08 15:37:52 ERROR com.app.mj.FileAppenderwithPattern:16 - Hello
+2023-12-08 15:37:52 FATAL com.app.mj.FileAppenderwithPattern:18 - Hello
